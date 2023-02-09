@@ -9,4 +9,4 @@
 
 - name: Create Pipeline Jobs
   ansible.builtin.include_tasks: mbranch-pipeline.yml
-  loop: "{{ pipeline_jobs }}
+  loop: "{{ ci_pipeline_jobs }}
