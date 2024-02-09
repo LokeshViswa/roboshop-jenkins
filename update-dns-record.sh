@@ -6,7 +6,7 @@ echo '
   "Changes": [{
     "Action": "UPSERT",
     "ResourceRecordSet": {
-      "Name": "jenkins.lokeshviswa44.online",
+      "Name": "jenkins.lokesh33.online",
       "Type": "A",
       "TTL": 15,
       "ResourceRecords": [{ "Value": "IPADDRESS"}]
